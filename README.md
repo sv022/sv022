@@ -23,7 +23,7 @@
 <img src="img/sqlTools.png" alt="sqltools" width="27" height="35"/>&nbsp;
 
 ## 
-<img alt="sv022 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sv022&langs_count=4&layout=compact&theme=transparent&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,Jupyter%20Notebook,c%2B%2B'Py" height="164px"/>
+<img alt="sv022 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sv022&langs_count=4&layout=compact&theme=transparent&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,Jupyter%20Notebook,c%2B%2B, ren'Py" height="164px"/>
 
 ## Stats
 
