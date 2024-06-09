@@ -23,24 +23,9 @@
 <img src="img/sqlTools.png" alt="sqltools" width="27" height="35"/>&nbsp;
 
 ## 
-<img alt="sv022 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sv022&langs_count=4&layout=compact&theme=transparent&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,Jupyter%20Notebook,c%2B%2B,ren'Py" height="164px"/>
-
-## Stats
-
-<img alt="sv022 Stats" src="https://github-readme-stats.vercel.app/api?username=sv022&show_icons=true&theme=transparent&border_color=1F222E&title_color=68C3D4" height="164px" />
-
+<div style="display: flex">
+<img style="padding: 10px" alt="sv022 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sv022&langs_count=4&layout=compact&theme=transparent&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,Jupyter%20Notebook,c%2B%2B,ren'Py" height="164px"/>
+<img style="padding: 10px" alt="sv022 Stats" src="https://github-readme-stats.vercel.app/api?username=sv022&show_icons=true&theme=transparent&border_color=1F222E&title_color=68C3D4" height="164px" />
 
 <!--
 **sv022/sv022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
